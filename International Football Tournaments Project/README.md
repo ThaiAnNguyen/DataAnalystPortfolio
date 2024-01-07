@@ -1,7 +1,3 @@
-[Dashboard](https://public.tableau.com/app/profile/chon.thai.an.nguyen/viz/InternationalFootballTournamentsDashboard/Dashboard1?publish=yes)
-[Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv)
-
-
 ## International Football Tournaments Project
 Welcome to the International Football Tournaments project! This project focuses on analyzing a dataset of international football tournaments to gain insights and [visualize key findings](https://public.tableau.com/app/profile/chon.thai.an.nguyen/viz/InternationalFootballTournamentsDashboard/Dashboard1?publish=yes).
 ![International Football](https://github.com/ThaiAnNguyen/DataAnalystPortfolio/assets/155811703/b95e75f9-10e4-486f-a258-46219836d4f8)
