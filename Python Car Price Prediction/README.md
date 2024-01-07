@@ -32,7 +32,7 @@ pip install numpy pandas scikit-learn category_encoders ipywidgets ipython
 
 The `Car Price Prediction.ipynb` notebook contains the Python code for the Car Price Prediction project. Here's an overview of the workflow:
 
-1. Data Preprocessing: The dataset is loaded, missing values are handled, and any necessary data cleaning and normalization are performed. Cleaned data `df_cleaned.csv` is then exported automatically. Please replace my file export path with your own.
+1. Data Preprocessing: The dataset is loaded, missing values are handled, and any necessary data cleaning and normalization are performed. Cleaned data `df_cleaned.csv`, also available in this repository, is then exported automatically. Please replace my file export path with your own.
 
 2. Feature Engineering: Categorical features are encoded using target encoding to capture the relationship between the features and the target variable.
 
