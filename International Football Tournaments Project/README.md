@@ -20,7 +20,7 @@ Additionally, you can explore the interactive Tableau visualization of the Inter
 
 ![International Football Tournaments Project - Tableau Viz](https://github.com/ThaiAnNguyen/DataAnalystPortfolio/assets/155811703/eed6203e-e2e3-4e9d-9ea9-a21ab596f0cb)
 
-
+Please note that this Tableau Visualization focus on popular tournaments and may not represent the entire dataset. The visualizations are designed to facilitate exploration and analysis of the selected tournaments. They allow users to interact with the data, filter specific time periods and tournaments, compare team performance, and gain insights into various aspects of the tournaments.
 
 ### How to run this Project:
 1. Download the dataset `results.csv` from [Kaggle](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv).
