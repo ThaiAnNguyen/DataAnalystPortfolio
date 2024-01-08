@@ -21,7 +21,7 @@ The Car Price Prediction project focuses on predicting car prices using machine 
 Please refer to the project directory for more detailed information on the Car Price Prediction project.
 
 ### Project 3: International Football Tournaments
-The International Football Tournaments Project focuses on analyzing and visualizing data from popular football tournaments. It includes SQL queries to extract insights and build relational database as well as interactive visualizations created using Tableau, showcasing team performance, tournament statistics, home team win rate and goalscoring trend over time. Please note that the visualizations included in this project only reflect popular tournaments and not the entire dataset. The dataset URL and more information can be found in the project directory.
+The International Football Tournaments Project focuses on analyzing and visualizing data from popular football tournaments. It includes SQL queries to extract insights and build relational database as well as interactive visualizations created using Tableau, showcasing team performance, tournament statistics, home team win rate and goal-scoring trend over time. Please note that the visualizations included in this project only reflect popular tournaments and not the entire dataset. The dataset URL and more information can be found in the project directory.
 
 Please refer to the respective project directories for more detailed information on each project, including specific requirements, dependencies, and usage instructions.
 
